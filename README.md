@@ -1,4 +1,4 @@
-# Arduino-Buttons-LEDs-Project
+# 3-Buttons-LEDs-Project
 
 Arduino-based interactive project where multiple push buttons control corresponding LEDs. 🛠 Components Arduino Uno board ×1
 
